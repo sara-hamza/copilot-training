@@ -1,7 +1,7 @@
 ---
 name: learning-coach
 description: This skill should be used when a staff member or new starter drops in an approved SOP, training manual or vendor guide (PDF, DOCX, text) and wants to learn from it - "teach me", "quiz me", "give me a fault scenario", "don't tell me the answer until I try", "where did I go wrong". It teaches from the supplied material only and withholds answers until the learner tries. Local only.
-version: 1.0.0
+version: 1.1.0
 ---
 
 # Learning Coach
